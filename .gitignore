@@ -1,3 +1,7 @@
+#Solution files
+*.suo
+/.vs/
+
 # Prerequisites
 *.d
 
@@ -6,6 +10,7 @@
 *.lo
 *.o
 *.obj
+/obj/
 
 # Precompiled Headers
 *.gch
