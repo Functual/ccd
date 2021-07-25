@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="cc.Utility" GeneratedClassName="ccEmailerSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="smpt_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail.myserver.com</Value>
+    </Setting>
+    <Setting Name="smtp_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user@myserver.com</Value>
+    </Setting>
+    <Setting Name="smtp_password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">myserver_password</Value>
+    </Setting>
+    <Setting Name="smtp_port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="use_ssl" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
