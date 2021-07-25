@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileSlinger" GeneratedClassName="Emailer">
+  <Profiles />
+  <Settings>
+    <Setting Name="smtp_password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server_password</Value>
+    </Setting>
+    <Setting Name="email_to_address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">me@server.com</Value>
+    </Setting>
+    <Setting Name="smtp_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail.server.com</Value>
+    </Setting>
+    <Setting Name="smtp_user" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user@server.com</Value>
+    </Setting>
+    <Setting Name="email_from_address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fromme@server.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,6 +1,7 @@
 #Solution files
 *.suo
 .vs/
+*.csproj.user
 
 # Prerequisites
 *.d
